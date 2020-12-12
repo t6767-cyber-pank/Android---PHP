@@ -1,2 +1,2 @@
 # Эксперимент с json
-Эксперимент поставленный на тему сочитания web и moblile applications
+An experiment posed on combining web and moblile applications
